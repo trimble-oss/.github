@@ -40,7 +40,7 @@ Your team's awesome project could be next!
 
 ---
 
-![Trimble <3 GitHub!](trimble-heart-github.svg)
+![Trimble <3 GitHub!](https://raw.githubusercontent.com/trimble-oss/contribute/main/assets/img/trimble-heart-github.svg)
 
 ---
 
