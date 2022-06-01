@@ -6,9 +6,11 @@
 
 ---
 
-Whether you're an open source veteran, or it's all new to you, please make sure you read and follow the [Contribution Guidelines](https://trimble-oss.github.io/contribute/guidelines/).
+Trimble Open Source, Inner Source and Team specific projects find there home here!
 
-Also be sure to [invite other colleagues who might want to contribute](https://trimble-oss.github.io/contribute/) as well.
+Please make sure you read and follow the [Contribution Guidelines](https://trimble-oss.github.io/contribute/guidelines/) before commenting on any projects or submitting pull requests.
+
+Also be sure to [invite other colleagues](https://trimble-oss.github.io/contribute/) who would benefit from joining the Trimble GitHub organization.
 
 ---
 
