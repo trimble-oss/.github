@@ -6,7 +6,7 @@
 
 ---
 
-Trimble Open Source, Inner Source and Team specific projects find there home here!
+Trimble Open Source, Inner Source and Team specific projects find their home here!
 
 Please make sure you read and follow the [Contribution Guidelines](https://trimble-oss.github.io/contribute/guidelines/) before commenting on any projects or submitting pull requests.
 
