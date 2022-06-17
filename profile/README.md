@@ -1,16 +1,20 @@
 # Welcome!
 
+Welcome to the [**Trimble Online Source Store**](github.com/trimble-oss) on GitHub!
+
+Trimble software projects of all stripes find their home here: Open Source, Inner Source and Team specific.
+
 ### Become a [Contributor](https://trimble-oss.github.io/contribute/)
 
 ### Read the [Contribution Guidelines](https://trimble-oss.github.io/contribute/guidelines/)
 
----
+Need help? Email the Trimble Online Source Store administrators at [trimble-oss-contrib-admins-ug@trimble.com](mailto:trimble-oss-contrib-admins-ug@trimble.com) or contact [Jeff Doolittle](mailto:jeff_doolittle@trimble.com).
 
-Trimble Open Source, Inner Source and Team specific projects find their home here!
+---
 
 Please make sure you read and follow the [Contribution Guidelines](https://trimble-oss.github.io/contribute/guidelines/) before commenting on any projects or submitting pull requests.
 
-Also be sure to [invite other colleagues](https://trimble-oss.github.io/contribute/) who would benefit from joining the Trimble GitHub organization.
+Also be sure to [invite other colleagues](https://trimble-oss.github.io/contribute/) who would benefit from joining the [**Trimble Online Source Store**](github.com/trimble-oss) on GitHub.
 
 ---
 
@@ -44,6 +48,3 @@ Your team's awesome project could be next!
 
 ![Trimble <3 GitHub!](https://raw.githubusercontent.com/trimble-oss/contribute/main/assets/img/trimble-heart-github.svg)
 
----
-
-Contact [@jeffdoolittle](https://github.com/jeffdoolittle) on GitHub or by email at [jeff_doolittle@trimble.com](mailto:jeff_doolittle@trimble.com) if you have any questions or suggestions about how to continue making open and inner source great at Trimble!
