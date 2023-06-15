@@ -28,6 +28,10 @@ Have an idea for a new open source or inner source project? Want to get the word
 
 ## 🌟 Project Highlights
 
+### api-standards
+
+The Trimble [api-standards](https://github.com/trimble-oss/api-standards) site provides the standards by which Trimble APIs should be designed, implemented, managed, and maintained.
+
 ### modus-web-components
 
 The [modus-web-components](https://modus-web-components.trimble.com) library provides Modus Elements as, you guessed it, web components! Web components are reusable, encapsulated UI elements that are framework agnostic. This means that whatever framework your UI team uses (angular, react, vue, svelte, etc.) they can leverage the same common components as every other team!
