@@ -44,6 +44,10 @@ The [modus-web-components](https://modus-web-components.trimble.com) library pro
 
 [Download the latest release](https://github.com/trimble-oss/dba-dash/releases/latest) or view the project source at [https://github.com/trimble-oss/dba-dash](https://github.com/trimble-oss/dba-dash).
 
+### tierceron
+
+[Tierceron](https://github.com/trimble-oss/tierceron) is a framework of services and tools for securely storing, managing (via tools, data flows, and services), distributing (via deployments to microservices), and visualizing secrets (via command line output and diff, database, and 3D visualization); powered by Go, Apache Kubernetes, Apache Dolthub, G3n, and HashiCorp Vault.
+
 ### coming soon...
 
 Your team's awesome project could be next!
